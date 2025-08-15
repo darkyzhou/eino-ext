@@ -17,7 +17,7 @@ An Elasticsearch 8.x retriever implementation for [Eino](https://github.com/clou
 ## Installation
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/retriever/es8@latest
+go get github.com/darkyzhou/eino-ext/components/retriever/es8@latest
 ```
 
 ## Quick Start
@@ -31,8 +31,8 @@ import (
 	"github.com/elastic/go-elasticsearch/v8"
 	"github.com/elastic/go-elasticsearch/v8/typedapi/types"
 
-	"github.com/cloudwego/eino-ext/components/retriever/es8"
-	"github.com/cloudwego/eino-ext/components/retriever/es8/search_mode"
+	"github.com/darkyzhou/eino-ext/components/retriever/es8"
+	"github.com/darkyzhou/eino-ext/components/retriever/es8/search_mode"
 )
 
 const (

@@ -20,7 +20,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/meguminnnnnnnnn/go-openai"
+	"github.com/darkyzhou/go-openai"
 
 	"github.com/cloudwego/eino/callbacks"
 	"github.com/cloudwego/eino/components/embedding"

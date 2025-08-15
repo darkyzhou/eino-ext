@@ -1,4 +1,4 @@
-module github.com/cloudwego/eino-ext/components/tool/googlesearch
+module github.com/darkyzhou/eino-ext/components/tool/googlesearch
 
 go 1.23.0
 

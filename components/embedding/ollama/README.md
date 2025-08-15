@@ -11,7 +11,7 @@
 
 ## 安装
 ```bash
-  go get github.com/cloudwego/eino-ext/components/embedding/ollama
+  go get github.com/darkyzhou/eino-ext/components/embedding/ollama
 ```
 
 
@@ -26,7 +26,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/cloudwego/eino-ext/components/embedding/ollama"
+	"github.com/darkyzhou/eino-ext/components/embedding/ollama"
 )
 
 func main() {

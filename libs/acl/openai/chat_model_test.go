@@ -21,7 +21,7 @@ import (
 	"testing"
 
 	"github.com/bytedance/mockey"
-	goopenai "github.com/meguminnnnnnnnn/go-openai"
+	goopenai "github.com/darkyzhou/go-openai"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/cloudwego/eino/components/model"

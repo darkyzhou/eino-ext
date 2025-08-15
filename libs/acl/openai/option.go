@@ -17,7 +17,7 @@
 package openai
 
 import (
-	"github.com/meguminnnnnnnnn/go-openai"
+	"github.com/darkyzhou/go-openai"
 
 	"github.com/cloudwego/eino/components/model"
 )

@@ -15,8 +15,8 @@ github.com/cloudwego/base64x v0.1.5 h1:XPciSp1xaq2VCSt6lF0phncD4koWyULpl5bUxbfCy
 github.com/cloudwego/base64x v0.1.5/go.mod h1:0zlkT4Wn5C6NdauXdJRhSKRlJvmclQ1hhJgA0rcu/8w=
 github.com/cloudwego/eino v0.4.3 h1:ihHVHPMA8G2DPWeN+NTuIKr1QBAet9g84buH+LUl1bU=
 github.com/cloudwego/eino v0.4.3/go.mod h1:wUjz990apdsaOraOXdh6CdhVXq8DJsOvLsVlxNTcNfY=
-github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250811130120-7b6b45476992 h1:MYorSBUQDIv64XJiFmWEEmugbzTYcbND2YQAzgXCusU=
-github.com/cloudwego/eino-ext/libs/acl/openai v0.0.0-20250811130120-7b6b45476992/go.mod h1:KyHOuc2H4wLQQbuo7dPMIcNAemmH6axMHTeiSij2oXA=
+github.com/darkyzhou/eino-ext/libs/acl/openai v0.0.0-20250811130120-7b6b45476992 h1:MYorSBUQDIv64XJiFmWEEmugbzTYcbND2YQAzgXCusU=
+github.com/darkyzhou/eino-ext/libs/acl/openai v0.0.0-20250811130120-7b6b45476992/go.mod h1:KyHOuc2H4wLQQbuo7dPMIcNAemmH6axMHTeiSij2oXA=
 github.com/cloudwego/iasm v0.2.0/go.mod h1:8rXZaNYT2n95jn+zTI1sDr+IgcD2GVs0nlbbQPiEFhY=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
@@ -70,8 +70,8 @@ github.com/mailru/easyjson v0.7.7 h1:UGYAvKxe3sBsEDzO8ZeWOSlIQfWFlxbzLZe7hwFURr0
 github.com/mailru/easyjson v0.7.7/go.mod h1:xzfreul335JAWq5oZzymOObrkdz5UnU4kGfJJLY9Nlc=
 github.com/mattn/go-colorable v0.1.2 h1:/bC9yWikZXAL9uJdulbSfyVNIR3n3trXl+v8+1sx8mU=
 github.com/mattn/go-isatty v0.0.8 h1:HLtExJ+uU2HOZ+wI0Tt5DtUDrx8yhUqDcp7fYERX4CE=
-github.com/meguminnnnnnnnn/go-openai v0.0.0-20250723112853-3bce976e5ccc h1:vdRbmKDHZMGb5SSUVAT9u+559Vr2gScV5ie/kcOvfeE=
-github.com/meguminnnnnnnnn/go-openai v0.0.0-20250723112853-3bce976e5ccc/go.mod h1:CqSFsV6AkkL2fixd25WYjRAolns+gQrY1x/Cz9c30v8=
+github.com/darkyzhou/go-openai v0.0.0-20250723112853-3bce976e5ccc h1:vdRbmKDHZMGb5SSUVAT9u+559Vr2gScV5ie/kcOvfeE=
+github.com/darkyzhou/go-openai v0.0.0-20250723112853-3bce976e5ccc/go.mod h1:CqSFsV6AkkL2fixd25WYjRAolns+gQrY1x/Cz9c30v8=
 github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b h1:j7+1HpAFS1zy5+Q4qx1fWh90gTKwiN4QCGoY9TWyyO4=
 github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd h1:TRLaZ9cD/w8PVh93nsPXa1VrQ6jlwL5oN8l14QlcNfg=

@@ -12,7 +12,7 @@ A CozeLoop callback implementation for [Eino](https://github.com/cloudwego/eino)
 ## Installation
 
 ```bash
-go get github.com/cloudwego/eino-ext/callbacks/cozeloop
+go get github.com/darkyzhou/eino-ext/callbacks/cozeloop
 ```
 
 ## Quick Start
@@ -23,7 +23,7 @@ import (
 	"context"
 	"log"
 
-	ccb "github.com/cloudwego/eino-ext/callbacks/cozeloop"
+	ccb "github.com/darkyzhou/eino-ext/callbacks/cozeloop"
 	"github.com/cloudwego/eino/callbacks"
 	"github.com/coze-dev/cozeloop-go"
 )

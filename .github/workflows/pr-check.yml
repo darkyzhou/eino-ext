@@ -45,7 +45,7 @@ jobs:
             if [ ! -f "$dir/README.md" ]; then
               echo "Error: README.md not found in newly added module directory: $dir"
               echo "Please add a [README.md] file to the directory."
-              echo "📢 You can refer to the following example: https://github.com/cloudwego/eino-ext/blob/main/components/tool/duckduckgo/README.md"
+              echo "📢 You can refer to the following example: https://github.com/darkyzhou/eino-ext/blob/main/components/tool/duckduckgo/README.md"
               exit 1
             fi
           done

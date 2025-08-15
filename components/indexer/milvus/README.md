@@ -14,7 +14,7 @@ It requires the milvus-sdk-go client of version 2.4.x
 
 ```bash
 go get github.com/milvus-io/milvus-sdk-go/v2@2.4.2
-go get github.com/cloudwego/eino-ext/components/indexer/milvus@latest
+go get github.com/darkyzhou/eino-ext/components/indexer/milvus@latest
 ```
 
 ### Create the Milvus Indexer
@@ -27,11 +27,11 @@ import (
 	"log"
 	"os"
 	
-	"github.com/cloudwego/eino-ext/components/embedding/ark"
+	"github.com/darkyzhou/eino-ext/components/embedding/ark"
 	"github.com/cloudwego/eino/schema"
 	"github.com/milvus-io/milvus-sdk-go/v2/client"
 	
-	"github.com/cloudwego/eino-ext/components/indexer/milvus"
+	"github.com/darkyzhou/eino-ext/components/indexer/milvus"
 )
 
 func main() {

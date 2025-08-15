@@ -13,7 +13,7 @@
 ## 安装
 
 ```bash
-go get github.com/cloudwego/eino-ext/callbacks/apmplus
+go get github.com/darkyzhou/eino-ext/callbacks/apmplus
 ```
 
 ## 快速开始
@@ -25,7 +25,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/cloudwego/eino-ext/callbacks/apmplus"
+	"github.com/darkyzhou/eino-ext/callbacks/apmplus"
 	"github.com/cloudwego/eino/callbacks"
 )
 

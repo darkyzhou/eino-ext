@@ -5,7 +5,7 @@ This module provides a cache embedder for Eino, which is designed to store and r
 ## Installation
 
 ```shell
-go get github.com/cloudwego/eino-ext/components/embedding/cache
+go get github.com/darkyzhou/eino-ext/components/embedding/cache
 ```
 
 ## Usage
@@ -19,8 +19,8 @@ import (
 	"crypto/md5"
 	"log"
 
-	"github.com/cloudwego/eino-ext/components/embedding/cache"
-	cacheredis "github.com/cloudwego/eino-ext/components/embedding/cache/redis"
+	"github.com/darkyzhou/eino-ext/components/embedding/cache"
+	cacheredis "github.com/darkyzhou/eino-ext/components/embedding/cache/redis"
 	"github.com/cloudwego/eino/components/embedding"
 	"github.com/redis/go-redis/v9"
 )

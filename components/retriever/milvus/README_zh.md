@@ -26,10 +26,10 @@ import (
 	"log"
 	"os"
 	
-	"github.com/cloudwego/eino-ext/components/embedding/ark"
+	"github.com/darkyzhou/eino-ext/components/embedding/ark"
 	"github.com/milvus-io/milvus-sdk-go/v2/client"
 	
-	"github.com/cloudwego/eino-ext/components/retriever/milvus"
+	"github.com/darkyzhou/eino-ext/components/retriever/milvus"
 )
 
 func main() {

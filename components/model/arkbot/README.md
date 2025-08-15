@@ -15,7 +15,7 @@ A Volcengine Ark Bot implementation for [Eino](https://github.com/cloudwego/eino
 ## Installation
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/model/arkbot@latest
+go get github.com/darkyzhou/eino-ext/components/model/arkbot@latest
 ```
 
 ## Quick Start
@@ -48,7 +48,7 @@ import (
 
 	"github.com/cloudwego/eino/schema"
 
-	"github.com/cloudwego/eino-ext/components/model/arkbot"
+	"github.com/darkyzhou/eino-ext/components/model/arkbot"
 )
 
 func main() {

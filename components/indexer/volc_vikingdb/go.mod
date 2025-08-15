@@ -1,4 +1,4 @@
-module github.com/cloudwego/eino-ext/components/indexer/volc_vikingdb
+module github.com/darkyzhou/eino-ext/components/indexer/volc_vikingdb
 
 go 1.23.0
 

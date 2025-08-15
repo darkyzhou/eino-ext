@@ -12,7 +12,7 @@ A BrowserUse Tool implementation for [Eino](https://github.com/cloudwego/eino) t
 ## Installation
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/tool/browseruse@latest
+go get github.com/darkyzhou/eino-ext/components/tool/browseruse@latest
 ```
 
 ## Quick Start
@@ -28,7 +28,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/cloudwego/eino-ext/components/tool/browseruse"
+	"github.com/darkyzhou/eino-ext/components/tool/browseruse"
 )
 
 func main() {

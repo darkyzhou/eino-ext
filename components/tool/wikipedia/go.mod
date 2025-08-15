@@ -1,4 +1,4 @@
-module github.com/cloudwego/eino-ext/components/tool/wikipedia
+module github.com/darkyzhou/eino-ext/components/tool/wikipedia
 
 go 1.23.0
 

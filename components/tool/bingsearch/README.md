@@ -13,7 +13,7 @@ A Bing search tool implementation for [Eino](https://github.com/cloudwego/eino) 
 ## Installation
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/tool/bingsearch
+go get github.com/darkyzhou/eino-ext/components/tool/bingsearch
 ```
 
 ## Quick Start
@@ -28,7 +28,7 @@ import (
 	"time"
 	
 	"github.com/bytedance/sonic"
-	"github.com/cloudwego/eino-ext/components/tool/bingsearch"
+	"github.com/darkyzhou/eino-ext/components/tool/bingsearch"
 )
 
 func main() {

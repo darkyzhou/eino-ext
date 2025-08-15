@@ -13,7 +13,7 @@
 ## 安装
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/tool/bingsearch
+go get github.com/darkyzhou/eino-ext/components/tool/bingsearch
 ```
 
 ## 快速开始
@@ -28,7 +28,7 @@ import (
 	"time"
 	
 	"github.com/bytedance/sonic"
-	"github.com/cloudwego/eino-ext/components/tool/bingsearch"
+	"github.com/darkyzhou/eino-ext/components/tool/bingsearch"
 )
 
 func main() {

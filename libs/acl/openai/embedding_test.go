@@ -21,7 +21,7 @@ import (
 	"testing"
 
 	"github.com/bytedance/mockey"
-	"github.com/meguminnnnnnnnn/go-openai"
+	"github.com/darkyzhou/go-openai"
 	"github.com/stretchr/testify/assert"
 )
 

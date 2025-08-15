@@ -30,7 +30,7 @@ DuckDuckGo 提供了以下优势：
 ## 安装
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/tool/duckduckgo
+go get github.com/darkyzhou/eino-ext/components/tool/duckduckgo
 ```
 
 ## 快速开始
@@ -44,7 +44,7 @@ import (
     "log"
     "time"
 
-    "github.com/cloudwego/eino-ext/components/tool/duckduckgo/ddgsearch"
+    "github.com/darkyzhou/eino-ext/components/tool/duckduckgo/ddgsearch"
 )
 
 func main() {

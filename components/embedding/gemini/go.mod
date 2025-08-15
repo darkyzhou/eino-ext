@@ -1,4 +1,4 @@
-module github.com/cloudwego/eino-ext/components/embedding/gemini
+module github.com/darkyzhou/eino-ext/components/embedding/gemini
 
 go 1.23.0
 

@@ -25,7 +25,7 @@ The Sequential Thinking tool is designed for:
 ## Install
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/tool/sequentialthinking@latest
+go get github.com/darkyzhou/eino-ext/components/tool/sequentialthinking@latest
 ```
 
 ## Quick Start
@@ -39,7 +39,7 @@ import (
 	
 	"github.com/bytedance/sonic"
 	
-	"github.com/cloudwego/eino-ext/components/tool/sequentialthinking"
+	"github.com/darkyzhou/eino-ext/components/tool/sequentialthinking"
 )
 
 func main() {

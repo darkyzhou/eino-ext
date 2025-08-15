@@ -1,4 +1,4 @@
-module github.com/cloudwego/eino-ext/components/model/ollama
+module github.com/darkyzhou/eino-ext/components/model/ollama
 
 go 1.24.0
 

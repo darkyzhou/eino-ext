@@ -12,7 +12,7 @@ with Eino's vector storage and retrieval system for enhanced semantic search cap
 
 ```bash
 go get github.com/milvus-io/milvus-sdk-go/v2@2.4.2
-go get github.com/cloudwego/eino-ext/retriever/milvus@latest
+go get github.com/darkyzhou/eino-ext/retriever/milvus@latest
 ```
 
 ### Create the Milvus Retriever
@@ -26,10 +26,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/cloudwego/eino-ext/components/embedding/ark"
+	"github.com/darkyzhou/eino-ext/components/embedding/ark"
 	"github.com/milvus-io/milvus-sdk-go/v2/client"
 
-	"github.com/cloudwego/eino-ext/components/retriever/milvus"
+	"github.com/darkyzhou/eino-ext/components/retriever/milvus"
 )
 
 func main() {

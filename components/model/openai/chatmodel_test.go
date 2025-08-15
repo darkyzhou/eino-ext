@@ -25,8 +25,8 @@ import (
 	"testing"
 
 	"github.com/bytedance/mockey"
+	"github.com/darkyzhou/go-openai"
 	"github.com/getkin/kin-openapi/openapi3gen"
-	"github.com/meguminnnnnnnnn/go-openai"
 
 	"github.com/cloudwego/eino/callbacks"
 	"github.com/cloudwego/eino/components/model"

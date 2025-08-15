@@ -14,7 +14,7 @@ A Dify retriever implementation for [Eino](https://github.com/cloudwego/eino) th
 ## Installation
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/retriever/dify
+go get github.com/darkyzhou/eino-ext/components/retriever/dify
 ```
 
 ## Quick Start
@@ -28,7 +28,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/cloudwego/eino-ext/components/retriever/dify"
+	"github.com/darkyzhou/eino-ext/components/retriever/dify"
 )
 
 

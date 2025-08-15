@@ -12,7 +12,7 @@ CommandLine Tools implementation for [Eino](https://github.com/cloudwego/eino) t
 ## Installation
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/tool/commandline@latest
+go get github.com/darkyzhou/eino-ext/components/tool/commandline@latest
 ```
 
 ## Quick Start
@@ -27,8 +27,8 @@ import (
 	"context"
 	"log"
 
-	"github.com/cloudwego/eino-ext/components/tool/commandline"
-	"github.com/cloudwego/eino-ext/components/tool/commandline/sandbox"
+	"github.com/darkyzhou/eino-ext/components/tool/commandline"
+	"github.com/darkyzhou/eino-ext/components/tool/commandline/sandbox"
 )
 
 func main() {
@@ -104,8 +104,8 @@ import (
 	"context"
 	"log"
 
-	"github.com/cloudwego/eino-ext/components/tool/commandline"
-	"github.com/cloudwego/eino-ext/components/tool/commandline/sandbox"
+	"github.com/darkyzhou/eino-ext/components/tool/commandline"
+	"github.com/darkyzhou/eino-ext/components/tool/commandline/sandbox"
 )
 
 func main() {

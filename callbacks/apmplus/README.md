@@ -13,7 +13,7 @@ A Volcengine APMPlus callback implementation for [Eino](https://github.com/cloud
 ## Installation
 
 ```bash
-go get github.com/cloudwego/eino-ext/callbacks/apmplus
+go get github.com/darkyzhou/eino-ext/callbacks/apmplus
 ```
 
 ## Quick Start
@@ -25,7 +25,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/cloudwego/eino-ext/callbacks/apmplus"
+	"github.com/darkyzhou/eino-ext/callbacks/apmplus"
 	"github.com/cloudwego/eino/callbacks"
 )
 

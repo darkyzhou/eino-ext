@@ -13,7 +13,7 @@
 ## 安装
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/tool/wikipedia
+go get github.com/darkyzhou/eino-ext/components/tool/wikipedia
 ```
 
 ## 快速开始
@@ -23,7 +23,7 @@ package main
 
 import (
 	"context"
-	"github.com/cloudwego/eino-ext/components/tool/wikipedia"
+	"github.com/darkyzhou/eino-ext/components/tool/wikipedia"
 	"github.com/cloudwego/eino/components/tool"
 	"log"
 	"time"

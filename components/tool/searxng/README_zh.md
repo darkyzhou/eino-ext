@@ -18,7 +18,7 @@
 ## 安装
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/tool/searxng
+go get github.com/darkyzhou/eino-ext/components/tool/searxng
 ```
 
 ## 快速开始
@@ -31,7 +31,7 @@ import (
     "log"
     "time"
 
-    "github.com/cloudwego/eino-ext/components/tool/searxng"
+    "github.com/darkyzhou/eino-ext/components/tool/searxng"
     "github.com/cloudwego/eino/components/tool"
 )
 

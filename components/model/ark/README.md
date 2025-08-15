@@ -15,7 +15,7 @@ A Volcengine Ark model implementation for [Eino](https://github.com/cloudwego/ei
 ## Installation
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/model/ark@latest
+go get github.com/darkyzhou/eino-ext/components/model/ark@latest
 ```
 
 ## Quick Start
@@ -35,7 +35,7 @@ import (
 
 	"github.com/cloudwego/eino/schema"
 
-	"github.com/cloudwego/eino-ext/components/model/ark"
+	"github.com/darkyzhou/eino-ext/components/model/ark"
 )
 
 func main() {

@@ -11,7 +11,7 @@ A DuckDuckGo text search tool implementation for [Eino](https://github.com/cloud
 ## Installation
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/tool/duckduckgo/v2
+go get github.com/darkyzhou/eino-ext/components/tool/duckduckgo/v2
 ```
 
 ## Quick Start
@@ -23,7 +23,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/cloudwego/eino-ext/components/tool/duckduckgo/v2"
+	"github.com/darkyzhou/eino-ext/components/tool/duckduckgo/v2"
 	"github.com/cloudwego/eino/components/tool"
 )
 

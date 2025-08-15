@@ -15,7 +15,7 @@ A Tencent Cloud Hunyuan embedding implementation for [Eino](https://github.com/c
 ## Installation
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/embedding/tencentcloud
+go get github.com/darkyzhou/eino-ext/components/embedding/tencentcloud
 ```
 
 ## Quick Start
@@ -28,7 +28,7 @@ import (
     "fmt"
     "os"
     
-    "github.com/cloudwego/eino-ext/components/embedding/tencentcloud"
+    "github.com/darkyzhou/eino-ext/components/embedding/tencentcloud"
 )
 
 func main() {

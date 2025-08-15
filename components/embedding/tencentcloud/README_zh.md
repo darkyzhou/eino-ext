@@ -15,7 +15,7 @@
 ## 安装
 
 ```bash
-go get github.com/cloudwego/eino-ext/components/embedding/tencentcloud
+go get github.com/darkyzhou/eino-ext/components/embedding/tencentcloud
 ```
 
 ## 快速开始
@@ -28,7 +28,7 @@ import (
     "fmt"
     "os"
     
-    "github.com/cloudwego/eino-ext/components/embedding/tencentcloud"
+    "github.com/darkyzhou/eino-ext/components/embedding/tencentcloud"
 )
 
 func main() {

@@ -25,8 +25,8 @@ import (
 	"runtime/debug"
 	"sort"
 
+	"github.com/darkyzhou/go-openai"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/meguminnnnnnnnn/go-openai"
 
 	"github.com/cloudwego/eino/callbacks"
 	"github.com/cloudwego/eino/components/model"
@@ -262,6 +262,17 @@ func toOpenAIMultiContent(mc []schema.ChatMessagePart) ([]openai.ChatMessagePart
 				Type: openai.ChatMessagePartTypeVideoURL,
 				VideoURL: &openai.ChatMessageVideoURL{
 					URL: part.VideoURL.URL,
+				},
+			})
+		case schema.ChatMessagePartTypeFileURL:
+			if part.FileURL == nil {
+				return nil, fmt.Errorf("FileURL field must not be nil when Type is ChatMessagePartTypeFileURL")
+			}
+			ret = append(ret, openai.ChatMessagePart{
+				Type: openai.ChatMessagePartTypeFileURL,
+				FileURL: &openai.ChatMessageFileURL{
+					URL:      part.FileURL.URL,
+					MIMEType: part.FileURL.MIMEType,
 				},
 			})
 		default:

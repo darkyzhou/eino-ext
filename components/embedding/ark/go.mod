@@ -1,4 +1,4 @@
-module github.com/cloudwego/eino-ext/components/embedding/ark
+module github.com/darkyzhou/eino-ext/components/embedding/ark
 
 go 1.23.0
 

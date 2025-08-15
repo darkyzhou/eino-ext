@@ -1,4 +1,4 @@
-module github.com/cloudwego/eino-ext/components/tool/commandline
+module github.com/darkyzhou/eino-ext/components/tool/commandline
 
 go 1.23.0
 
